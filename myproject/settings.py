@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-wvpx^c8g!$&$!=hgs*5xcjov%$p%i@7)&nyni78330*pv(j(_2
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["dasblogapp.onrender.com","localhost", "127.0.0.1"]
+ALLOWED_HOSTS = ["dasblogapp.onrender.com", "mydasblogapp.netlify.app","localhost", "127.0.0.1"]
 
 
 # Application definition
